@@ -5,5 +5,10 @@ Brief introduction: https://www.bilibili.com/video/BV1xybaeNEZk/?spm_id_from=333
 
 test picture:  
 ![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_1.jpg)  
+from:wblinus(on bilibili)  
+
 ![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_2.jpg)  
-![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_3.jpg)
+from:wblinus(on bilibili)  
+
+![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_3.jpg)  
+from:wblinus(on bilibili)
