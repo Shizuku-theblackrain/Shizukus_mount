@@ -11,4 +11,11 @@ from:wblinus(on bilibili)
 from:wblinus(on bilibili)  
 
 ![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_3.jpg)  
-from:wblinus(on bilibili)
+from:wblinus(on bilibili)  
+
+![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_4.jpg)  
+from:wblinus(on bilibili)  
+
+![image](https://github.com/Shizuku-theblackrain/Shizukus_mount/blob/main/test_pic/wblinus_5.jpg)  
+from:wblinus(on bilibili) 
+
