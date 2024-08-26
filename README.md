@@ -1,3 +1,5 @@
+s17版本未经验证，仅做参考使用，不确保功能可行  
+
 # Shizukus_mount
 Low-cost (about 1000Rmb) biaxial equatorial mount using dual S14-100/S17-100 harmonic reducers, 1:5.18 planetary reducers, 42H48 stepper motor 和 PETG (or other printed materials)  
 
